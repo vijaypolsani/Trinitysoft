@@ -1,6 +1,6 @@
 import Link from "next/link";
 import React from "react";
-import kdIcon from "../assets/Trinitysoft.svg";
+import kdIcon from "../assets/Trinitysoft.jpeg";
 import Image from 'next/image'
 
 const Logo = () => {
